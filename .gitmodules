@@ -1,0 +1,3 @@
+[submodule "googlenew"]
+	path = googlenew
+	url = https://github.com/Gulsum-Turk/frontend.git
