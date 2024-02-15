@@ -1,3 +1,3 @@
 ## medium anasayfa clon çalışması
 
-![](/medium/images/1.png)
+![](/frontend-bootstrap/medium/images/1.png)

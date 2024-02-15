@@ -1,3 +1,3 @@
 ## linkedn clone çalışması
 
-![](/images/01.png)
+![](/frontend-bootstrap/linkedn/images/1.png)
